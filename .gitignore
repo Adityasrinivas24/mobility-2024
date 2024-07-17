@@ -2,6 +2,7 @@ bmc-env
 traffic-signs-detection-data
 .ipynb_checkpoints
 !datasets/vehicles/*
+!datasets/videos/*
 get_videos.py
 videos_out
 datasets
