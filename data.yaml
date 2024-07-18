@@ -1,0 +1,8 @@
+path: C:\Users\asrin\Desktop\bengaluru-mobility-challenge-2024\datasets\speed-signs-detection-yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 17
+names: ['Give Way', 'Hump', 'Left hand curve', 'Right Hand Curve', 'Right Reverse Bend', 'Speed Limit -100-', 'Speed Limit -120-', 'Speed Limit -50-', 'Speed Limit -60-', 'Speed Limit -70-', 'Speed Limit -80-', 'Speed Limit -90-', 'Speed Limit 30', 'Speed limit -40-', 'Stop', 'do_not_turn_l', 'do_not_turn_r']
+

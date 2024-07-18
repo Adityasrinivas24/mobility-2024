@@ -1,0 +1,17 @@
+path: C:\Users\asrin\Desktop\bengaluru-mobility-challenge-2024\datasets\new-classes
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+
+names:
+  0 : Bicycle
+  1 : Two-Wheeler
+  2 : Three-Wheeler
+  3 : Car
+  4 : LCV
+  5 : Truck
+  6 : Bus
+
+
